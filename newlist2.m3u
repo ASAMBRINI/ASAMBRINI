@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1,00 AM Canal Caracol |SD|
+http://8.242.225.44:8000/play/a0wm/index.m3u8
+#EXTINF:-1,00 AM Canal Institucional |SD|
+http://8.242.225.44:8000/play/a0wq/index.m3u8
+#EXTINF:-1,00 AM Canal RCN |SD|
+http://8.242.225.44:8000/play/a0wn/index.m3u8
+#EXTINF:-1,00 AM City TV |SD|
+http://8.242.225.44:8000/play/a0x1/index.m3u8
+#EXTINF:-1,00 AM Zoom |SD|
+http://8.242.225.44:8000/play/a0wy/index.m3u8
+#EXTINF:-1,AM AE Mundo |SD|
+http://8.242.225.44:8000/play/a0qq/index.m3u8
+#EXTINF:-1,AM ATV |SD|
+http://8.242.225.44:8000/play/a0ri/index.m3u8
+#EXTINF:-1,AM AXN |SD|
+http://8.242.225.44:8000/play/a0rv/index.m3u8
+#EXTINF:-1,AM America TV PY |SD|
+http://8.242.225.44:8000/play/a0rn/index.m3u8
+#EXTINF:-1,AM AmericaTV |SD|
+http://8.242.225.44:8000/play/a0rg/index.m3u8
+#EXTINF:-1,AM Animal Planet |SD|
+http://8.242.225.44:8000/play/a0qh/index.m3u8
+#EXTINF:-1,AM BabyFirst |SD|
+http://8.242.225.44:8000/play/a0pr/index.m3u8
+#EXTINF:-1,AM CNN Chile |SD|
+http://8.242.225.44:8000/play/a0ph/index.m3u8
+#EXTINF:-1,AM CNN Espanol |SD|
+http://8.242.225.44:8000/play/a0si/index.m3u8
+#EXTINF:-1,AM Canal Claro |SD|
+http://8.242.225.44:8000/play/a0rb/index.m3u8
+#EXTINF:-1,AM Canal Estrellas |SD|
+http://8.242.225.44:8000/play/a0r4/index.m3u8
+#EXTINF:-1,AM Cartoon Network |SD|
+http://8.242.225.44:8000/play/a0pk/index.m3u8
+#EXTINF:-1,AM Cinecanal |SD|
+http://8.242.225.44:8000/play/a0pc/index.m3u8
+#EXTINF:-1,AM Cinemax |SD|
+http://8.242.225.44:8000/play/a0rt/index.m3u8
+#EXTINF:-1,AM Claro Cinema |SD|
+http://8.242.225.44:8000/play/a0s4/index.m3u8
+#EXTINF:-1,AM Claro Sports |SD|
+http://8.242.225.44:8000/play/a0pm/index.m3u8
+#EXTINF:-1,AM Discovery Channel |SD|
+http://8.242.225.44:8000/play/a0qg/index.m3u8
+#EXTINF:-1,AM Discovery ID |SD|
+http://8.242.225.44:8000/play/a0r9/index.m3u8
+#EXTINF:-1,AM Discovery Kids |SD|
+http://8.242.225.44:8000/play/a0pu/index.m3u8
+#EXTINF:-1,AM Discovery Turbo |SD|
+http://8.242.225.44:8000/play/a0s6/index.m3u8
+#EXTINF:-1,AM Disney Channel |SD|
+http://8.242.225.44:8000/play/a0qf/index.m3u8
+#EXTINF:-1,AM Disney Jr |SD|
+http://8.242.225.44:8000/play/a0q7/index.m3u8
+#EXTINF:-1,AM E Entertainment |SD|
+http://8.242.225.44:8000/play/a0qj/index.m3u8
+#EXTINF:-1,AM ESPN 2 Latin |SD|
+http://8.242.225.44:8000/play/a0ql/index.m3u8
+#EXTINF:-1,AM ESPN 2 |SD|
+http://8.242.225.44:8000/play/a0qa/index.m3u8
+#EXTINF:-1,AM ESPN 3 |SD|
+http://8.242.225.44:8000/play/a0s8/index.m3u8
+#EXTINF:-1,AM ESPN 4 |SD|
+http://8.242.225.44:8000/play/a0rj/index.m3u8
+#EXTINF:-1,AM ESPN |SD|
+http://8.242.225.44:8000/play/a0qm/index.m3u8
+#EXTINF:-1,AM Enlace |SD|
+http://8.242.225.44:8000/play/a0pp/index.m3u8
+#EXTINF:-1,AM Esne TV |SD|
+http://8.242.225.44:8000/play/a0s7/index.m3u8
+#EXTINF:-1,AM FX |SD|
+http://8.242.225.44:8000/play/a0rx/index.m3u8
+#EXTINF:-1,AM Fox Sports 2 |SD|
+http://8.242.225.44:8000/play/a0r5/index.m3u8
+#EXTINF:-1,AM Fox Sports 3 |SD|
+http://8.242.225.44:8000/play/a0r6/index.m3u8
+#EXTINF:-1,AM France 24 |SD|
+http://8.242.225.44:8000/play/a0ra/index.m3u8
+#EXTINF:-1,AM HBO 2 |SD|
+http://8.242.225.44:8000/play/a0q3/index.m3u8
+#EXTINF:-1,AM HBO Family |SD|
+http://8.242.225.44:8000/play/a0q6/index.m3u8
+#EXTINF:-1,AM HBO Plus |SD|
+http://8.242.225.44:8000/play/a0q4/index.m3u8
+#EXTINF:-1,AM HBO XTREME |SD|
+http://8.242.225.44:8000/play/a0q5/index.m3u8
+#EXTINF:-1,AM HBO |SD|
+http://8.242.225.44:8000/play/a0rs/index.m3u8
+#EXTINF:-1,AM History Channel |SD|
+http://8.242.225.44:8000/play/a0pb/index.m3u8
+#EXTINF:-1,AM HomeandHealth |SD|
+http://8.242.225.44:8000/play/a0re/index.m3u8
+#EXTINF:-1,AM I-Sat |SD|
+http://8.242.225.44:8000/play/a0pe/index.m3u8
+#EXTINF:-1,AM Latina |SD|
+http://8.242.225.44:8000/play/a0rf/index.m3u8
+#EXTINF:-1,AM Lifetime |SD|
+http://8.242.225.44:8000/play/a0ps/index.m3u8
+#EXTINF:-1,AM MTV |SD|
+http://8.242.225.44:8000/play/a0pf/index.m3u8
+#EXTINF:-1,AM Nat Geo |SD|
+http://8.242.225.44:8000/play/a0pa/index.m3u8
+#EXTINF:-1,AM Nick Jr |SD|
+http://8.242.225.44:8000/play/a0s5/index.m3u8
+#EXTINF:-1,AM Nickelodeon |SD|
+http://8.242.225.44:8000/play/a0p9/index.m3u8
+#EXTINF:-1,AM Panamericana TV |SD|
+http://8.242.225.44:8000/play/a0rh/index.m3u8
+#EXTINF:-1,AM RCN Novelas |SD|
+http://8.242.225.44:8000/play/a0r8/index.m3u8
+#EXTINF:-1,AM STAR CHANNEL |SD|
+http://8.242.225.44:8000/play/a0pi/index.m3u8
+#EXTINF:-1,AM Sin Limites |SD|
+http://8.242.225.44:8000/play/a0rm/index.m3u8
+#EXTINF:-1,AM Sony |SD|
+http://8.242.225.44:8000/play/a0ru/index.m3u8
+#EXTINF:-1,AM Space |SD|
+http://8.242.225.44:8000/play/a0rw/index.m3u8
+#EXTINF:-1,AM Studio Universal |SD|
+http://8.242.225.44:8000/play/a0q9/index.m3u8
+#EXTINF:-1,AM SyFy |SD|
+http://8.242.225.44:8000/play/a0pt/index.m3u8
+#EXTINF:-1,AM TBS |SD|
+http://8.242.225.44:8000/play/a0rc/index.m3u8
+#EXTINF:-1,AM TCM |SD|
+http://8.242.225.44:8000/play/a0pj/index.m3u8
+#EXTINF:-1,AM TLC |SD|
+http://8.242.225.44:8000/play/a0r2/index.m3u8
+#EXTINF:-1,AM TNT |SD|
+http://8.242.225.44:8000/play/a0pl/index.m3u8
+#EXTINF:-1,AM TV Peru |SD|
+http://8.242.225.44:8000/play/a0rk/index.m3u8
+#EXTINF:-1,AM TVE |SD|
+http://8.242.225.44:8000/play/a0pq/index.m3u8
+#EXTINF:-1,AM Telemundo |SD|
+http://8.242.225.44:8000/play/a0r7/index.m3u8
+#EXTINF:-1,AM TyC |SD|
+http://8.242.225.44:8000/play/a0qo/index.m3u8
+#EXTINF:-1,AM Universal Cinema |SD|
+http://8.242.225.44:8000/play/a0y8/index.m3u8
+#EXTINF:-1,AM Universal Comedy |SD|
+http://8.242.225.44:8000/play/a0y9/index.m3u8
+#EXTINF:-1,AM Universal Premiere |SD|
+http://8.242.225.44:8000/play/a0y7/index.m3u8
+#EXTINF:-1,AM Universal |SD|
+http://8.242.225.44:8000/play/a0pd/index.m3u8
+#EXTINF:-1,AM ViaX |SD|
+http://8.242.225.44:8000/play/a0r3/index.m3u8
+#EXTINF:-1,AM WILLAX |SD|
+http://8.242.225.44:8000/play/a0rd/index.m3u8
+#EXTINF:-1,AM Warner |SD|
+http://8.242.225.44:8000/play/a0qi/index.m3u8
+#EXTINF:-1,AM Win |SD|
+http://8.242.225.44:8000/play/a0xp/index.m3u8
+#EXTINF:-1,AM Zona Latina |SD|
+http://8.242.225.44:8000/play/a0pg/index.m3u8
+#EXTINF:-1,AmericaTV HD
+http://8.242.225.44:8000/play/a0ym/index.m3u8
+#EXTINF:-1,Libre ATV sur |HD|
+http://8.242.225.44:8000/play/a0jy/index.m3u8
+#EXTINF:-1,Libre ATV |HD|
+http://8.242.225.44:8000/play/a0jb/index.m3u8
+#EXTINF:-1,Libre ATV+ |HD|
+http://8.242.225.44:8000/play/a0jc/index.m3u8
+#EXTINF:-1,Libre CONTINENTAL |HD|
+http://8.242.225.44:8000/play/a0jg/index.m3u8
+#EXTINF:-1,Libre Global |HD|
+http://8.242.225.44:8000/play/a0jq/index.m3u8
+#EXTINF:-1,Libre La Tele |HD|
+http://8.242.225.44:8000/play/a0jr/index.m3u8
+#EXTINF:-1,Libre PANAMERICANA |HD|
+http://8.242.225.44:8000/play/a0j6/index.m3u8
+#EXTINF:-1,Libre QUATRO |HD|
+http://8.242.225.44:8000/play/a0j9/index.m3u8
+#EXTINF:-1,Libre UNIVERSAL |HD|
+http://8.242.225.44:8000/play/a0jf/index.m3u8
+#EXTINF:-1,NATIVA SD
+http://8.242.225.44:8000/play/a0jh/index.m3u8
+#EXTINF:-1,Satellite Latina HD
+http://8.242.225.44:8000/play/a0ye/index.m3u8
